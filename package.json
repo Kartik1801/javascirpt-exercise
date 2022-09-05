@@ -1,0 +1,26 @@
+{
+  "name": "javascript-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartik1801/javascirpt-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartik1801/javascirpt-exercise/issues"
+  },
+  "homepage": "https://github.com/Kartik1801/javascirpt-exercise#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
